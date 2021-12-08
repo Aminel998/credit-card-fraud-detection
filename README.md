@@ -3,4 +3,4 @@ Détection de fraude des transactions des cartes bancaires à l’aide d’un al
 
 
 
-Here is link to the data set i used for my project https://www.kaggle.com/mlg-ulb/creditcardfraud in csv format
+Here is the link to the data set i used for my project https://www.kaggle.com/mlg-ulb/creditcardfraud in csv format
